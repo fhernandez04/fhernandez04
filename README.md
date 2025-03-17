@@ -1,7 +1,5 @@
 # Welcome to my GitHub! 👋
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-javier-hern%C3%A1ndez-fern%C3%A1ndez-a15696335/)
-
 I am a software engineering student passionate about problem-solving and efficient software design. What motivates me the most is not just learning new programming languages but developing an engineering mindset to structure and optimize software systems. I am particularly interested in algorithms, architecture, and scalable software design.
 
 From my early experiences in League of Codes with C++ to my studies at the University of Granada (UGR), I have had the opportunity to strengthen my knowledge in software engineering, deepening my understanding of algorithms, data structures, and system design. During this stage, I not only acquired a solid technical foundation but also developed an analytical approach to tackling complex problems in a structured way.
@@ -10,7 +8,7 @@ To broaden my horizons, I pursued an exchange program at the Technical Universit
 
 I am currently looking for opportunities to further develop my skills in the software industry. I am eager to work in collaborative environments where I can continue learning and adding value.
 
-📩 Open to networking and knowledge sharing!
+📩 Open to networking and knowledge sharing! [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-javier-hern%C3%A1ndez-fern%C3%A1ndez-a15696335/)
 
 <!--
 **fhernandez04/fhernandez04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
