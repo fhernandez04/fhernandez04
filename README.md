@@ -9,6 +9,7 @@ To broaden my horizons, I pursued an exchange program at the Technical Universit
 I am currently looking for opportunities to further develop my skills in the software industry. I am eager to work in collaborative environments where I can continue learning and adding value.
 
 📩 Open to networking and knowledge sharing! 
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-javier-hern%C3%A1ndez-fern%C3%A1ndez-a15696335/)
 
 <!--
